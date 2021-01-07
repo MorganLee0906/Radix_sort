@@ -1,7 +1,6 @@
 #include<iostream>
 #include<queue>
 #include<math.h>
-#inc
 #define endl '\n'
 #define IO cin.tie(nullptr);ios::sync_with_stdio(0);
 using namespace std;
